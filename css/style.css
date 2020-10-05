@@ -1,0 +1,17 @@
+body, textarea, input {
+    background: black;
+    color: #22ff88;
+    font-family: monospace;
+}
+
+input, textarea, input:focus, textarea:focus {
+    outline: none;
+    border: none;
+    width: 90%;
+    overflow: hidden;
+}
+
+hr {
+    border-top: 1px solid #22ff88;
+    border-bottom: none;
+}
