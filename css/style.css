@@ -16,3 +16,10 @@ hr {
     border-top: 1px solid #22ff88;
     border-bottom: none;
 }
+
+#console {
+    position:fixed;
+    height: 2em;
+    bottom: 1em;
+    width:100%;
+}
