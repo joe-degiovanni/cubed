@@ -2,6 +2,7 @@ body, textarea, input {
     background: black;
     color: #22ff88;
     font-family: monospace;
+    font-size: 3vw;
 }
 
 input, textarea, input:focus, textarea:focus {
